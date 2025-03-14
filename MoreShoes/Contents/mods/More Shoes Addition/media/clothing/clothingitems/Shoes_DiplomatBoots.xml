@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_DiplomatBoots.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_DiplomatBoots.fbx</m_FemaleModel>
+	<m_GUID>779a7dc2-4283-4adb-b160-301197eaa631</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\DiplomatBoots1</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots2</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots3</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots4</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots5</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots6</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots7</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots8</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots9</textureChoices>
+	<textureChoices>Clothes\DiplomatBoots10</textureChoices>
+</clothingItem>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_RidingBoots_MS.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_RidingBoots_MS.fbx</m_FemaleModel>
+	<m_GUID>d5b312ff-5be1-4733-9436-56e120d77d4d</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\RidingBootsBlack_MS</textureChoices>
+	<textureChoices>Clothes\RidingBootsBrown_MS</textureChoices>
+</clothingItem>

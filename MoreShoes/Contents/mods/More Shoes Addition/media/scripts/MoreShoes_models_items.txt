@@ -1,0 +1,178 @@
+module Base
+{
+
+	model AirJordans_Ground
+	{
+        mesh = WorldItems/Clothing/AirJordans_Ground,
+    }	
+
+	model Converse_Ground
+	{
+        mesh = WorldItems/Clothing/Converse_Ground,
+    }	
+
+	model Jordan1s_Ground
+	{
+        mesh = WorldItems/Clothing/Jordan1s_Ground,
+    }		
+
+    model Timberlands_Ground
+    {
+        mesh = WorldItems/Clothing/Timberlands_Ground,
+    }	
+
+    model LockhartBoots_Ground
+    {
+        mesh = WorldItems/Clothing/LockhartBoots_Ground,
+    }	
+
+    model WesternBoots_Ground
+    {
+        mesh = WorldItems/Clothing/WesternBoots_Ground,
+    }	
+
+    model Uggs_Ground
+    {
+        mesh = WorldItems/Clothing/Uggs_Ground,
+    }	
+
+    model AnkleBoots_Ground
+    {
+        mesh = WorldItems/Clothing/AnkleBoots_Ground,
+    }
+
+    model HikingBoots_Ground
+    {
+        mesh = WorldItems/Clothing/HikingBoots_Ground,
+    }
+
+    model SpikedBoots_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedBoots_Ground,
+    }
+
+    model LacedUpBooties_Ground
+    {
+        mesh = WorldItems/Clothing/LacedUpBooties_Ground,
+    }
+    
+    model LabBoots_Ground
+    {
+        mesh = WorldItems/Clothing/LabBoots_Ground,
+    }
+
+    model SlippersBunny_Ground
+    {
+        mesh = WorldItems/Clothing/SlippersBunny_Ground,
+    }
+
+    model SlippersCat_Ground
+    {
+        mesh = WorldItems/Clothing/SlippersCat_Ground,
+    }
+
+    model SlippersTeddy_Ground
+    {
+        mesh = WorldItems/Clothing/SlippersTeddy_Ground,
+    }
+
+    model ZoidbergSlippers_Ground
+    {
+        mesh = WorldItems/Clothing/ZoidbergSlippers_Ground,
+    }
+
+    model PASneakers_Ground
+    {
+        mesh = WorldItems/Clothing/PASneakers_Ground,
+    }
+
+    model RaverBoots_Ground
+    {
+        mesh = WorldItems/Clothing/RaverBoots_Ground,
+    }
+
+    model NewBalance_Ground
+    {
+        mesh = WorldItems/Clothing/NewBalance_Ground,
+    }
+
+    model SuedeLitaBoots_Ground
+    {
+        mesh = WorldItems/Clothing/SuedeLitaBoots_Ground,
+    }
+
+    model PunkBoots_Ground
+    {
+        mesh = WorldItems/Clothing/PunkBoots_Ground,
+    }
+
+    model ReindeerSlippers_Ground
+    {
+        mesh = WorldItems/Clothing/ReindeerSlippers_Ground,
+    }
+
+    model FurLinedCalfBoots_Ground
+    {
+        mesh = WorldItems/Clothing/FurLinedCalfBoots_Ground,
+    }
+
+    model GucciBoots_Ground
+    {
+        mesh = WorldItems/Clothing/GucciBoots_Ground,
+    }
+
+    model ChampagneBoots_Ground
+    {
+        mesh = WorldItems/Clothing/ChampagneBoots_Ground,
+    }
+
+    model MarisolBoots_Ground
+    {
+        mesh = WorldItems/Clothing/MarisolBoots_Ground,
+    }
+
+    model SlipOnSneakers_Ground
+    {
+        mesh = WorldItems/Clothing/SlipOnSneakers_Ground,
+    }
+
+    model DiplomatBoots_Ground
+    {
+        mesh = WorldItems/Clothing/DiplomatBoots_Ground,
+    }
+
+    model SpurredBoots_Ground
+    {
+        mesh = WorldItems/Clothing/SpurredBoots_Ground,
+    }
+
+    model PirateBoots_Ground
+    {
+        mesh = WorldItems/Clothing/PirateBoots_Ground,
+    }
+
+    model ClothBoots_Ground
+    {
+        mesh = WorldItems/Clothing/ClothBoots_Ground,
+    }
+
+    model SpikedHeels_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedHeels_Ground,
+    }
+
+    model WorkUniformBoots_Ground
+    {
+        mesh = WorldItems/Clothing/WorkUniformBoots_Ground,
+    }
+
+    model CalfConverse_Ground
+    {
+        mesh = WorldItems/Clothing/CalfConverse_Ground,
+    }
+
+    model ThighHighHeels_Ground
+    {
+        mesh = WorldItems/Clothing/ThighHighHeels_Ground,
+    }
+}

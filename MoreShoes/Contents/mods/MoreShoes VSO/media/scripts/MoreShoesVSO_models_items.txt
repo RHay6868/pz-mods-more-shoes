@@ -1,0 +1,67 @@
+module Base
+{
+    model BikerBoots_Ground
+    {
+        mesh = WorldItems/Clothing/BikerBoots_Ground,
+    }
+    
+    model StrappedShoes_Ground
+    {
+        mesh = WorldItems/Clothing/StrappedShoes_Ground,
+    }
+
+    model FancyShoes_Ground
+    {
+        mesh = WorldItems/Clothing/FancyShoes_Ground,
+    }
+
+    model RandomShoes_Ground
+    {
+        mesh = WorldItems/Clothing/RandomShoes_Ground,
+    }
+
+    model BlackDressShoes_Ground
+    {
+        mesh = WorldItems/Clothing/BlackDressShoes_Ground,
+    }
+
+    model BrownDressShoes_Ground
+    {
+        mesh = WorldItems/Clothing/BrownDressShoes_Ground,
+    }
+	  
+	model MilitaryBoots_Ground
+    {
+        mesh = WorldItems/Clothing/MilitaryBoots_Ground,
+    }
+	   
+	model Wellies_Ground
+    {
+        mesh = WorldItems/Clothing/Wellies_Ground,
+    }
+	   
+	model RidingBoots_Ground
+    {
+        mesh = WorldItems/Clothing/RidingBoots_Ground,
+    }
+	    
+	model SneakerTrainers_Ground
+    {
+        mesh = WorldItems/Clothing/SneakerTrainers_Ground,
+    }	
+	    
+	model FlipFlops_Ground
+    {
+        mesh = WorldItems/Clothing/FlipFlops_Ground,
+    }
+
+    model Sandals_Ground
+    {
+        mesh = WorldItems/Clothing/Sandals_Ground,
+    }
+    
+	model Slippers_Ground
+    {
+        mesh = WorldItems/Clothing/Slippers_Ground,
+    }
+}

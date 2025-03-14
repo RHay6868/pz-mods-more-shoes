@@ -1,0 +1,30 @@
+Sandbox_EN = {
+	Sandbox_MoreShoes_Loot = "More Shoes Loot"
+
+	Sandbox_MoreShoes_LootGeneral = "More Shoes General Loot Amount"
+	Sandbox_MoreShoes_LootGeneral_tooltip = "Establishes the base amount of loot in distribution"
+
+	Sandbox_MoreShoes_Rarity = "More Shoes Items Spawn Rate Multiplier"
+	Sandbox_MoreShoes_Rarity_tooltip = "Defines the multiplier to spawn rate"
+
+	Sandbox_MoreShoes_SpawnVanillaVariants = "Spawn Vanilla Variants"
+	Sandbox_MoreShoes_SpawnVanillaVariants_tooltip = "Will add the Standalone Vanilla Variants shoes to the spawn pool"
+
+	Sandbox_MoreShoes_VanillaStandaloneConditions = "Original Stats for Standalone Shoes"
+	Sandbox_MoreShoes_VanillaStandaloneConditions_tooltip = "This will change ALL Standalone Vanilla Variants of shoes to allow holes and for shoes to break, otherwise they are unbreakable"
+
+	Sandbox_MoreShoes_VanillaStandalonePatched = "Standalone Shoes Patchable"
+	Sandbox_MoreShoes_VanillaStandalonePatched_tooltip = "This will add fabric type leather to ALL Standalone Vanilla Variants of shoes so they become patchable, only works if you turn on Original Vanilla stats"
+
+	Sandbox_MoreShoes_VanillaStandaloneRunSpeedModifier = "Standalone Shoes Default Speed Modifier"
+	Sandbox_MoreShoes_VanillaStandaloneRunSpeedModifier_tooltip = "This will set ALL Standalone Vanilla Variants of shoes to Run Speed modifier of 1"
+
+	Sandbox_MoreShoes_VanillaStandaloneCombatSpeedModifier = "Standalone Shoes Default Combat Speed Modifer"
+	Sandbox_MoreShoes_VanillaStandaloneCombatSpeedModifier_tooltip = "This will set ALL Standalone Vanilla Variants of shoes to Combat Speed modifier of 1"
+
+    	Sandbox_MoreShoes_LootGeneral_option1 = "Low",
+    	Sandbox_MoreShoes_LootGeneral_option2 = "Normal",
+     	Sandbox_MoreShoes_LootGeneral_option3 = "High",
+    	Sandbox_MoreShoes_LootGeneral_option4 = "Very High",
+    	Sandbox_MoreShoes_LootGeneral_option5 = "Insane",
+}

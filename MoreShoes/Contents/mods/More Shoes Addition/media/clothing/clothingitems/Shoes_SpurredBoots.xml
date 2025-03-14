@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_SpurredBoots.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_SpurredBoots.fbx</m_FemaleModel>
+	<m_GUID>249fd264-961b-4fd9-9967-3a63c4d2dd12</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\SpurredBoots1</textureChoices>
+	<textureChoices>Clothes\SpurredBoots2</textureChoices>
+	<textureChoices>Clothes\SpurredBoots3</textureChoices>
+	<textureChoices>Clothes\SpurredBoots4</textureChoices>
+	<textureChoices>Clothes\SpurredBoots5</textureChoices>
+	<textureChoices>Clothes\SpurredBoots6</textureChoices>
+</clothingItem>

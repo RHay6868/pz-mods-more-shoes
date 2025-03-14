@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/HoodieDOWN_WhiteTINT.xml</path>
+		<guid>51851e1a-3c3d-473d-8894-8cde0770b645</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/HoodieUP_WhiteTINT.xml</path>
+		<guid>623c97c5-49f2-4763-bafb-549a881d6495</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_Padded.xml</path>
+		<guid>6f83a2f6-3b02-4e25-b27e-7e112006d7e2</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_PaddedDOWN.xml</path>
+		<guid>c1d742f9-d5a5-4c5f-99b1-8ee43c131f0f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/PonchoGreenDOWN.xml</path>
+		<guid>2cfe07c1-329a-479a-9974-c73742e13be1</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/PonchoYellowDOWN.xml</path>
+		<guid>d788ff7a-361a-4830-a911-a838f53c7efe</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Suit_Jacket.xml</path>
+		<guid>eecd5923-4944-4b33-9c4c-66045ea6984e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Suit_JacketTINT.xml</path>
+		<guid>e284f0ef-48aa-4357-982f-98bcf728a238</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/WeddingDress.xml</path>
+		<guid>050b77d0-a609-4e90-ac1a-f0733fc77967</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/WeddingJacket.xml</path>
+		<guid>0e10adb3-6611-42bd-abe9-d860ee432cd6</guid>
+	</files>
+</fileGuidTable>

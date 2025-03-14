@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_ThighHighHeels.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_ThighHighHeels.fbx</m_FemaleModel>
+	<m_GUID>bb24e23d-39e2-4604-a24c-ebb422124357</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>7</m_Masks>
+	<m_Masks>8</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\ThighHighHeels1</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels2</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels3</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels4</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels5</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels6</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels7</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels8</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels9</textureChoices>
+	<textureChoices>Clothes\ThighHighHeels10</textureChoices>
+</clothingItem>

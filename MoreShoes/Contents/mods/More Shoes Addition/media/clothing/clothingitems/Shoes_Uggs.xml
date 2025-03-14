@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Uggs.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Uggs.fbx</m_FemaleModel>
+	<m_GUID>527f6fdf-252e-4d0b-bc0b-e44d661215df</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\Uggs</textureChoices>
+	<textureChoices>Clothes\UggsBlack</textureChoices>
+	<textureChoices>Clothes\UggsGrey</textureChoices>
+	<textureChoices>Clothes\UggsNavy</textureChoices>
+	<textureChoices>Clothes\UggsOlive</textureChoices>
+</clothingItem>

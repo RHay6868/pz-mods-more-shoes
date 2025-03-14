@@ -1,0 +1,67 @@
+module Base
+{
+    model BikerBoots_MS_Ground
+    {
+        mesh = WorldItems/Clothing/BikerBoots_MS_Ground,
+    }
+    
+    model StrappedShoes_MS_Ground
+    {
+        mesh = WorldItems/Clothing/StrappedShoes_MS_Ground,
+    }
+
+    model FancyShoes_MS_Ground
+    {
+        mesh = WorldItems/Clothing/FancyShoes_MS_Ground,
+    }
+
+    model RandomShoes_MS_Ground
+    {
+        mesh = WorldItems/Clothing/RandomShoes_MS_Ground,
+    }
+
+    model BlackDressShoes_MS_Ground
+    {
+        mesh = WorldItems/Clothing/BlackDressShoes_MS_Ground,
+    }
+
+    model BrownDressShoes_MS_Ground
+    {
+        mesh = WorldItems/Clothing/BrownDressShoes_MS_Ground,
+    }
+	  
+	model MilitaryBoots_MS_Ground
+    {
+        mesh = WorldItems/Clothing/MilitaryBoots_MS_Ground,
+    }
+	   
+	model Wellies_MS_Ground
+    {
+        mesh = WorldItems/Clothing/Wellies_MS_Ground,
+    }
+	   
+	model RidingBoots_MS_Ground
+    {
+        mesh = WorldItems/Clothing/RidingBoots_MS_Ground,
+    }
+	    
+	model SneakerTrainers_MS_Ground
+    {
+        mesh = WorldItems/Clothing/SneakerTrainers_MS_Ground,
+    }	
+	    
+	model FlipFlops_MS_Ground
+    {
+        mesh = WorldItems/Clothing/FlipFlops_MS_Ground,
+    }
+
+    model Sandals_MS_Ground
+    {
+        mesh = WorldItems/Clothing/Sandals_MS_Ground,
+    }
+    
+	model Slippers_MS_Ground
+    {
+        mesh = WorldItems/Clothing/Slippers_MS_Ground,
+    }
+}

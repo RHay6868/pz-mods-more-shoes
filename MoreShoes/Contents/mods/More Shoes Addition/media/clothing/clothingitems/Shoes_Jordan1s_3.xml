@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Jordan1s.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Jordan1s.fbx</m_FemaleModel>
+	<m_GUID>ecbba4a4-f79e-4527-a98f-9bdeaf67e4bc</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\Jordan1Pollen</textureChoices>
+	<textureChoices>Clothes\Jordan1Banned</textureChoices>
+	<textureChoices>Clothes\Jordan1Royal</textureChoices>
+	<textureChoices>Clothes\Jordan1HighShadow</textureChoices>
+	<textureChoices>Clothes\Jordan1TripleBlack</textureChoices>
+</clothingItem>	

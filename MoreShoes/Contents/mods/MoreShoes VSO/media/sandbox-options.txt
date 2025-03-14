@@ -1,0 +1,53 @@
+VERSION = 1,
+
+
+option MoreShoes.Loot
+{
+	type = enum,
+	default = 1,
+	numValues = 5,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_LootGeneral,
+}
+
+option MoreShoes.Rarity
+{
+	type = integer,
+	default = 5,
+	min = 1,
+	max = 10,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_Rarity,
+}
+
+option MoreShoes.VanillaConditions
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_VanillaConditions,
+}
+
+option MoreShoes.VanillaPatched
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_VanillaPatched,
+}
+
+option MoreShoes.VanillaRunSpeedModifier
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_VanillaRunSpeedModifier,
+}
+
+option MoreShoes.VanillaCombatSpeedModifier
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_VanillaCombatSpeedModifier,
+}

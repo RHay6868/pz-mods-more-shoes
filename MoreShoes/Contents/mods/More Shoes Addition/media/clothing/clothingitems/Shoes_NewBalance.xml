@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_NewBalance.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_NewBalance.fbx</m_FemaleModel>
+	<m_GUID>1ee39eac-437f-4a4f-b576-9cebdce0230e</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>Clothes\NewBalance1</textureChoices>
+	<textureChoices>Clothes\NewBalance2</textureChoices>
+	<textureChoices>Clothes\NewBalance3</textureChoices>
+	<textureChoices>Clothes\NewBalance4</textureChoices>
+	<textureChoices>Clothes\NewBalance5</textureChoices>
+	<textureChoices>Clothes\NewBalance6</textureChoices>
+	<textureChoices>Clothes\NewBalance7</textureChoices>
+	<textureChoices>Clothes\NewBalance8</textureChoices>
+	<textureChoices>Clothes\NewBalance9</textureChoices>
+	<textureChoices>Clothes\NewBalance10</textureChoices>
+	<textureChoices>Clothes\NewBalance11</textureChoices>
+	<textureChoices>Clothes\NewBalance12</textureChoices>
+	<textureChoices>Clothes\NewBalance13</textureChoices>
+</clothingItem>

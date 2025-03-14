@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_Converse.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_Converse.fbx</m_FemaleModel>
+	<m_GUID>e419da2b-4273-41a4-9349-84614033850d</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\ConverseBlack</textureChoices>
+	<textureChoices>Clothes\ConverseBlue</textureChoices>
+	<textureChoices>Clothes\ConverseGreen</textureChoices>
+	<textureChoices>Clothes\ConversePink</textureChoices>
+	<textureChoices>Clothes\ConversePurple</textureChoices>
+	<textureChoices>Clothes\ConverseRed</textureChoices>
+	<textureChoices>Clothes\ConverseWhite</textureChoices>
+</clothingItem>	

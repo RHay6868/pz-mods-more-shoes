@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_CalfConverse.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_CalfConverse.fbx</m_FemaleModel>
+	<m_GUID>076f64da-97a2-4d60-94b0-41ac702241d2</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\CalfConverse1</textureChoices>
+	<textureChoices>Clothes\CalfConverse2</textureChoices>
+	<textureChoices>Clothes\CalfConverse3</textureChoices>
+	<textureChoices>Clothes\CalfConverse4</textureChoices>
+	<textureChoices>Clothes\CalfConverse5</textureChoices>
+	<textureChoices>Clothes\CalfConverse6</textureChoices>
+</clothingItem>

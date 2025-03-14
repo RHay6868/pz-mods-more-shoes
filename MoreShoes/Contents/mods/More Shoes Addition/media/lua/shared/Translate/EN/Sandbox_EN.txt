@@ -1,0 +1,31 @@
+Sandbox_EN = {
+
+	Sandbox_MoreShoes_Loot = "More Shoes Loot"
+
+	Sandbox_MoreShoes_AddLootGeneral = "Addition Shoes General Loot Amount"
+	Sandbox_MoreShoes_AddLootGeneral_tooltip = "Establishes the base amount of More Shoes Addition loot in distribution"
+
+	Sandbox_MoreShoes_AddRarity = "Addition Shoes Spawn Rate Multiplier"
+	Sandbox_MoreShoes_AddRarity_tooltip = "Defines the multiplier to spawn rate of More Shoes Addition items"
+
+	Sandbox_MoreShoes_AddNewJordans = "Spawn New Jordan Options"
+	Sandbox_MoreShoes_AddNewJordans_tooltip = "Toggle 3 spawns of new Jordans that add 12 color options"
+
+	Sandbox_MoreShoes_AdditionsConditions = "Vanilla Stats for Addition Shoes"
+	Sandbox_MoreShoes_AdditionsConditions_tooltip = "This will change More Shoe Addition items to allow holes and for shoes to break, otherwise they are unbreakable"
+
+	Sandbox_MoreShoes_AdditionsPatched = "Addition Shoes Patchable"
+	Sandbox_MoreShoes_AdditionsPatched_tooltip = "This will add fabric type leather to Shoe Addition items so they become patchable, only works if you turn on Vanilla stats"
+
+	Sandbox_MoreShoes_RemoveRunSpeedModifier = "Addition Shoes Default Speed Modifier"
+	Sandbox_MoreShoes_RemoveRunSpeedModifier_tooltip = "This will set ALL Additional shoes to Run Speed modifier of 1"
+
+	Sandbox_MoreShoes_RemoveCombatSpeedModifier = "Addition Shoes Default Combat Speed Modifer"
+	Sandbox_MoreShoes_RemoveCombatSpeedModifier_tooltip = "This will set ALL Additional shoes to Combat Speed modifier of 1"
+
+    	Sandbox_MoreShoes_AddLootGeneral_option1 = "Low",
+    	Sandbox_MoreShoes_AddLootGeneral_option2 = "Normal",
+     	Sandbox_MoreShoes_AddLootGeneral_option3 = "High",
+    	Sandbox_MoreShoes_AddLootGeneral_option4 = "Very High",
+    	Sandbox_MoreShoes_AddLootGeneral_option5 = "Insane",
+}

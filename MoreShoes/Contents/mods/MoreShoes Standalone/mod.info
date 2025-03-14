@@ -1,0 +1,7 @@
+name=More Shoes Standalone
+id=MoreShoesStandalone
+description=A version of More Shoes that doesn't overwrite base vanilla items but adds custom variants of those shoes
+
+poster=preview1.png
+poster=preview2.png
+icon=logo_mini.png

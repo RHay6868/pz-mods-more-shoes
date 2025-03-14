@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_WorkUniformBoots.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_WorkUniformBoots.fbx</m_FemaleModel>
+	<m_GUID>dee75f37-7cdd-498c-a8dd-811bb87ae604</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/Body/Masks/NewShoes</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\WorkUniformBoots1</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots2</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots3</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots4</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots5</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots6</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots7</textureChoices>
+	<textureChoices>Clothes\WorkUniformBoots8</textureChoices>
+</clothingItem>

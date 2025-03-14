@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Static\Clothes\M_SlippersTeddy.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Static\Clothes\F_SlippersTeddy.fbx</m_FemaleModel>
+	<m_GUID>c3d83a93-4ba5-434a-953a-9517e01e3936</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<textureChoices>Clothes\SlippersTeddy</textureChoices>
+	<textureChoices>Clothes\SlippersTeddyBlue</textureChoices>
+	<textureChoices>Clothes\SlippersTeddyPink</textureChoices>
+	<textureChoices>Clothes\SlippersTeddyYellow</textureChoices>
+</clothingItem>

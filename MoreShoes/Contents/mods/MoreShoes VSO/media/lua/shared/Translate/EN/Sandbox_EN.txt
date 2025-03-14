@@ -1,0 +1,29 @@
+Sandbox_EN = {
+	Sandbox_MoreShoes_Loot = "More Shoes Loot"
+
+	Sandbox_MoreShoes_LootGeneral = "More Shoes General Loot Amount"
+	Sandbox_MoreShoes_LootGeneral_tooltip = "Establishes the base amount of loot in distribution"
+
+	Sandbox_MoreShoes_Rarity = "More Shoes Items Spawn Rate Multiplier"
+	Sandbox_MoreShoes_Rarity_tooltip = "Defines the multiplier to spawn rate"
+
+	Sandbox_MoreShoes_VanillaConditions = "Original Stats for Vanilla Overhuals"
+	Sandbox_MoreShoes_VanillaConditions_tooltip = "This will change Vanilla Overhaul shoes to allow holes and for shoes to break, otherwise they are unbreakable"
+
+	Sandbox_MoreShoes_VanillaPatched = "Vanilla Overhuals Patchable"
+	Sandbox_MoreShoes_VanillaPatched_tooltip = "This will add fabric type leather to Vanilla Overhuals so they become patchable, only works if you turn on Original stats"
+
+	Sandbox_MoreShoes_VanillaRunSpeedModifier = "Vanilla Default Speed Modifier"
+	Sandbox_MoreShoes_VanillaRunSpeedModifier_tooltip = "This will set ALL VANILLA shoes to Run Speed modifier of 1"
+
+	Sandbox_MoreShoes_VanillaCombatSpeedModifier = "Vanilla Default Combat Speed Modifer"
+	Sandbox_MoreShoes_VanillaCombatSpeedModifier_tooltip = "This will set ALL VANILLA shoes to Combat Speed modifier of 1"
+
+    	Sandbox_MoreShoes_LootGeneral_option1 = "Low",
+    	Sandbox_MoreShoes_LootGeneral_option2 = "Normal",
+     	Sandbox_MoreShoes_LootGeneral_option3 = "High",
+    	Sandbox_MoreShoes_LootGeneral_option4 = "Very High",
+    	Sandbox_MoreShoes_LootGeneral_option5 = "Insane",
+
+
+}

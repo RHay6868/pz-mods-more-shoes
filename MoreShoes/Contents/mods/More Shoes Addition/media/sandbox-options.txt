@@ -1,0 +1,60 @@
+VERSION = 1,
+
+option MoreShoes.AddLoot
+{
+	type = enum,
+	default = 1,
+	numValues = 5,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_AddLootGeneral,
+}
+
+option MoreShoes.AddRarity
+{
+	type = integer,
+	default = 5,
+	min = 1,
+	max = 10,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_AddRarity,
+}
+
+option MoreShoes.AddNewJordans
+{
+	type = boolean,
+	default = true,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_AddNewJordans,
+}
+
+option MoreShoes.AdditionsConditions
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_AdditionsConditions,
+}
+
+option MoreShoes.AdditionsPatched
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_AdditionsPatched,
+}
+
+option MoreShoes.RemoveRunSpeedModifier
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_RemoveRunSpeedModifier,
+}
+
+option MoreShoes.RemoveCombatSpeedModifier
+{
+	type = boolean,
+	default = false,
+	page = MoreShoes_Loot,
+	translation = MoreShoes_RemoveCombatSpeedModifier,
+}
